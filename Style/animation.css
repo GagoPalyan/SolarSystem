@@ -1,0 +1,72 @@
+@keyframes Mercury {
+  from {
+    transform: rotate(0deg) translate(100px);
+  }
+  to {
+    transform: rotate(360deg) translate(100px);
+  }
+}
+@keyframes Venus {
+  from {
+    transform: rotate(0deg) translate(150px);
+  }
+  to {
+    transform: rotate(360deg) translate(150px);
+  }
+}
+@keyframes Earth {
+  from {
+    transform: rotate(0deg) translate(200px);
+  }
+  to {
+    transform: rotate(360deg) translate(200px);
+  }
+}
+@keyframes Moon {
+  from {
+    transform: rotate(0deg) translate(25px);
+  }
+  to {
+    transform: rotate(360deg) translate(25px);
+  }
+}
+@keyframes Mars {
+  from {
+    transform: rotate(0deg) translate(250px);
+  }
+  to {
+    transform: rotate(360deg) translate(250px);
+  }
+}
+@keyframes Jupiter {
+  from {
+    transform: rotate(0deg) translate(300px);
+  }
+  to {
+    transform: rotate(360deg) translate(300px);
+  }
+}
+@keyframes Saturn {
+  from {
+    transform: rotate(0deg) translate(345px);
+  }
+  to {
+    transform: rotate(360deg) translate(345px);
+  }
+}
+@keyframes Uranus {
+  from {
+    transform: rotate(0deg) translate(390px);
+  }
+  to {
+    transform: rotate(360deg) translate(390px);
+  }
+}
+@keyframes Neptune {
+  from {
+    transform: rotate(0deg) translate(435px);
+  }
+  to {
+    transform: rotate(360deg) translate(435px);
+  }
+}
